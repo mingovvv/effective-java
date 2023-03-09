@@ -11,13 +11,13 @@ public class Main {
          */
 
         Store a = Store.builder()
-                .enpterpriseCode("mp_super")
+                .enterpriseCode("mp_super")
                 .corporationCode("1001")
                 .storeCode("111")
                 .build();
 
         Store b = Store.builder()
-                .enpterpriseCode("mp_super")
+                .enterpriseCode("mp_super")
                 .corporationCode("1001")
                 .storeCode("111")
                 .build();
@@ -31,13 +31,13 @@ public class Main {
          */
 
         Store2 a2 = Store2.builder()
-                .enpterpriseCode("mp_super")
+                .enterpriseCode("mp_super")
                 .corporationCode("1001")
                 .storeCode("111")
                 .build();
 
         Store2 b2 = Store2.builder()
-                .enpterpriseCode("mp_super")
+                .enterpriseCode("mp_super")
                 .corporationCode("1001")
                 .storeCode("111")
                 .build();

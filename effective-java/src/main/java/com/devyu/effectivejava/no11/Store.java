@@ -1,17 +1,15 @@
-package com.devyu.effectivejava.no10;
+package com.devyu.effectivejava.no11;
 
 import lombok.Builder;
-import lombok.EqualsAndHashCode;
 
-@EqualsAndHashCode
-public class Store2 {
+public class Store {
 
     private String enterpriseCode;
     private String corporationCode;
     private String storeCode;
 
     @Builder
-    public Store2(String enterpriseCode, String corporationCode, String storeCode) {
+    public Store(String enterpriseCode, String corporationCode, String storeCode) {
         this.enterpriseCode = enterpriseCode;
         this.corporationCode = corporationCode;
         this.storeCode = storeCode;

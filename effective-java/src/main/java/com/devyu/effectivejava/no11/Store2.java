@@ -1,4 +1,4 @@
-package com.devyu.effectivejava.no10;
+package com.devyu.effectivejava.no11;
 
 import lombok.Builder;
 import lombok.EqualsAndHashCode;

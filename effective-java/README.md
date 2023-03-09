@@ -10,4 +10,4 @@
 #### 8. finalizer와 cleaner 사용을 피하라
 #### 9. [try-finally보다는 try-with-resoutces를 사용하라](src/main/java/com/devyu/effectivejava/no9/Main.java)
 #### 10. [equals는 일반 규약을 지켜 재정의하라](src/main/java/com/devyu/effectivejava/no10/Main.java)
-#### 11. [equals는 일반 규약을 지켜 재정의하라](src/main/java/com/devyu/effectivejava/no10/Main.java)
+#### 11. [equals를 재정의하려거든 hashCode도 재정의하라](src/main/java/com/devyu/effectivejava/no11/Main.java)
