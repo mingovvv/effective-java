@@ -35,10 +35,6 @@ public class Main {
         // Calc(paramA=100, paramB=200)
         System.out.println(calcD);
 
-
-
-
-
     }
 
 }
