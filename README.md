@@ -24,3 +24,22 @@
 #### 22. 인터페이스는 타입을 정의하는 용도로만 사용하라
 #### 23. [태그 달린 클래스보다는 클래스 계층구조를 활용하라](effective-java/src/main/java/com/devyu/effectivejava/item23/Main.java)
 #### 24. [멤버 클래스는 되도록 static으로 만들라](effective-java/src/main/java/com/devyu/effectivejava/item23/Main.java)
+#### 25. 톱레벨 클래스는 한 파일에 하나만 담으라
+#### 26. [로(raw) 타입은 사용하지 말라](effective-java/src/main/java/com/devyu/effectivejava/item26/Main.java)
+#### 27. 비검사 경고를 제거하라
+#### 28. [배열보다는 리스트를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item28/Main.java)
+#### 29. [이왕이면 제네릭 타입으로 만드라](effective-java/src/main/java/com/devyu/effectivejava/item29/Main.java)
+#### 30.
+#### 31.
+#### 32.
+#### 33.
+#### 34. [int 상수 대신 열거 타입을 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item24/Main.java)
+#### 35.
+#### 36.
+#### 37.
+#### 38.
+#### 39.
+#### 40.
+#### 41.
+#### 42. [익명 클래스보다는 람다를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item42/Main.java)
+

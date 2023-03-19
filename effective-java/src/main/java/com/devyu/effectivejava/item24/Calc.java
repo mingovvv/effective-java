@@ -7,7 +7,7 @@ public class Calc {
 
     static class Operation {
         static String PLUS = "PLUS";
-        static String MINUS = "MINSU";
+        static String MINUS = "MINUS";
     }
 
 
