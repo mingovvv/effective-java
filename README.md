@@ -30,7 +30,7 @@
 #### 28. [배열보다는 리스트를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item28/Main.java)
 #### 29. [이왕이면 제네릭 타입으로 만들라](effective-java/src/main/java/com/devyu/effectivejava/item29/Main.java)
 #### 30. [이왕이면 제네릭 메서드로 만들라](effective-java/src/main/java/com/devyu/effectivejava/item30/Main.java)
-#### 31.
+#### 31. [한정적 와일드카드를 사용해 API 유연성을 높이라](effective-java/src/main/java/com/devyu/effectivejava/item31/Main.java)
 #### 32.
 #### 33.
 #### 34. [int 상수 대신 열거 타입을 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item24/Main.java)
