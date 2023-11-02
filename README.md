@@ -28,8 +28,8 @@
 #### 26. [로(raw) 타입은 사용하지 말라](effective-java/src/main/java/com/devyu/effectivejava/item26/Main.java)
 #### 27. [비검사 경고를 제거하라](effective-java/src/main/java/com/devyu/effectivejava/item27/Main.java)
 #### 28. [배열보다는 리스트를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item28/Main.java)
-#### 29. [이왕이면 제네릭 타입으로 만드라](effective-java/src/main/java/com/devyu/effectivejava/item29/Main.java)
-#### 30.
+#### 29. [이왕이면 제네릭 타입으로 만들라](effective-java/src/main/java/com/devyu/effectivejava/item29/Main.java)
+#### 30. [이왕이면 제네릭 메서드로 만들라](effective-java/src/main/java/com/devyu/effectivejava/item30/Main.java)
 #### 31.
 #### 32.
 #### 33.
