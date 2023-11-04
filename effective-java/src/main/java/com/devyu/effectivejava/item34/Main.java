@@ -1,5 +1,11 @@
 package com.devyu.effectivejava.item34;
 
+/**
+ * [6장] - 열거 타입과 애너테이션
+ * [아이템 34] - int 상수 대신 열거 타입을 사용하라
+ *
+ * [요약] -
+ */
 public class Main {
 
     public static void main(String[] args) {
