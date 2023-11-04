@@ -31,8 +31,8 @@
 #### 29. [이왕이면 제네릭 타입으로 만들라](effective-java/src/main/java/com/devyu/effectivejava/item29/Main.java)
 #### 30. [이왕이면 제네릭 메서드로 만들라](effective-java/src/main/java/com/devyu/effectivejava/item30/Main.java)
 #### 31. [한정적 와일드카드를 사용해 API 유연성을 높이라](effective-java/src/main/java/com/devyu/effectivejava/item31/Main.java)
-#### 32.
-#### 33.
+#### 32. [제네릭과 가변인수를 함께 쓸 때는 신중하라](effective-java/src/main/java/com/devyu/effectivejava/item32/Main.java)
+#### 33. [타입 안전 이종 컨테이너를 고려하라](effective-java/src/main/java/com/devyu/effectivejava/item33/Main.java)
 #### 34. [int 상수 대신 열거 타입을 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item24/Main.java)
 #### 35.
 #### 36.
