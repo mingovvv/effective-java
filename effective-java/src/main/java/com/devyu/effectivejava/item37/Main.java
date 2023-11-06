@@ -89,7 +89,6 @@ public class Main {
 
     }
 
-    @ToString
     record Favorite(String name, Main.Favorite.Color color) {
 
             enum Color {
