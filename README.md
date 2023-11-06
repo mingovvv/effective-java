@@ -35,8 +35,8 @@
 #### 33. [타입 안전 이종 컨테이너를 고려하라](effective-java/src/main/java/com/devyu/effectivejava/item33/Main.java)
 #### 34. [int 상수 대신 열거 타입을 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item34/Main2.java)
 #### 35. [ordinal 메서드 대신 인스턴스 필드를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item35/Main.java)
-#### 36.
-#### 37.
+#### 36. 비트 필드 대신 EnumSet을 사용하라
+#### 37. [ordinal 인덱싱 대신 EnumMap을 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item37/Main.java)
 #### 38.
 #### 39.
 #### 40.
