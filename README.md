@@ -34,7 +34,7 @@
 #### 32. [제네릭과 가변인수를 함께 쓸 때는 신중하라](effective-java/src/main/java/com/devyu/effectivejava/item32/Main.java)
 #### 33. [타입 안전 이종 컨테이너를 고려하라](effective-java/src/main/java/com/devyu/effectivejava/item33/Main.java)
 #### 34. [int 상수 대신 열거 타입을 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item34/Main2.java)
-#### 35.
+#### 35. [ordinal 메서드 대신 인스턴스 필드를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item35/Main.java)
 #### 36.
 #### 37.
 #### 38.
