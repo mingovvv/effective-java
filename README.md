@@ -38,9 +38,9 @@
 #### 36. 비트 필드 대신 EnumSet을 사용하라
 #### 37. [ordinal 인덱싱 대신 EnumMap을 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item37/Main.java)
 #### 38. [확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item38/Main.java)
-#### 39.
-#### 40.
-#### 41.
+#### 39. [명명 패턴보다 애너테이션을 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item39/Main.java)
+#### 40. [@Override 애너테이션을 일관되게 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item40/Main.java)
+#### 41. [정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item41/Main.java)
 #### 42. [익명 클래스보다는 람다를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item42/Main.java)
 #### 43. [람다보다는 메서드 참조를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item43/Main.java)
 #### 44. 표준 함수형 인터페이스를 사용하라
