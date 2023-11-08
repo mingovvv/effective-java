@@ -41,7 +41,7 @@
 #### 39. [명명 패턴보다 애너테이션을 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item39/Main.java)
 #### 40. [@Override 애너테이션을 일관되게 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item40/Main.java)
 #### 41. [정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item41/Main.java)
-#### 42. [익명 클래스보다는 람다를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item42/Main.java)
+#### 42. [익명 클래스보다는 람다를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item42/Main2.java)
 #### 43. [람다보다는 메서드 참조를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item43/Main.java)
 #### 44. 표준 함수형 인터페이스를 사용하라
 #### 45. 스트림은 주의해서 사용하라
