@@ -2,11 +2,14 @@ package com.devyu.effectivejava.item43;
 
 import java.util.HashMap;
 
+/**
+ * [7장] - 람다와 스트림
+ * [아이템 43] - 람다보다는 메서드 참조를 사용하라
+ *
+ * [요약] - 메서드 참조는 람다의 간단명료한 대안이 될 수 있으니 메서드 참조 쪽이 짧고 명확하다면 메서드 참조를 사용하고 그렇지 않다면 람다를 쓰자!
+ */
 public class Main {
 
-    /**
-     * item 43 : 람다보다는 메서드 참조를 사용하라
-     */
     public static void main(String[] args) {
 
         HashMap<String, Integer> m = new HashMap<>();
