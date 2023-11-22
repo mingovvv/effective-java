@@ -46,3 +46,5 @@
 #### 44. [표준 함수형 인터페이스를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item44/Main.java)
 #### 45. [스트림은 주의해서 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item45/Main2.java)
 #### 46. [스트림에서는 부작용 없는 함수를 사용하라](effective-java/src/main/java/com/devyu/effectivejava/item46/Main2.java)
+#### 47. [반환 타입으로는 스트림보다 컬렉션이 낫다](effective-java/src/main/java/com/devyu/effectivejava/item47/Main.java)
+#### 48. [스트림 병렬화는 주의해서 적용하라](effective-java/src/main/java/com/devyu/effectivejava/item48/Main.java)
